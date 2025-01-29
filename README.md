@@ -3,8 +3,7 @@
 ![Banner](https://github.com/VishalTyagi85/VishalTyagi85/blob/main/Banner.jpg?raw=true)
 
 ---
-
-# Hello 👋 
+ 
 🎯 **Data Analyst | Data Enthusiast | Power BI & SQL Expert**  
 💡 Passionate about **Data Analytics, Visualization & Insight Generation**
 
@@ -27,6 +26,10 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-306998?style=flat-square&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-2E4053?style=flat-square&logo=python&logoColor=white" alt="Seaborn" />
 </p>
 
 ---
@@ -50,7 +53,4 @@
 ---
 
 ## 🎨 Fun Section  
-📢 **"The goal is to turn data into information, and information into insight."**  
-💡 Keep learning, growing, and sharing knowledge with the world! 🚀
-
----
+📢 **"The goal is to turn data into information, and information into insight
