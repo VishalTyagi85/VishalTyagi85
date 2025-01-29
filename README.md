@@ -47,9 +47,12 @@
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishalTyagi85&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues)
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VishalTyagi85&layout=compact&theme=tokyonight&hide=html,css,javascript)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishalTyagi85&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues)  
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalTyagi85&layout=compact&theme=tokyonight&hide=html,css,javascript)  
+
+![GitHub Stars](https://img.shields.io/github/stars/VishalTyagi85?style=social)
+  
 ---
 
 ## 🎨 Fun Section  
